@@ -47,9 +47,9 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Anaconda
-    web_url: https://github.com/topics/anaconda
-    style pink
+  - name: Tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
+    web_url: https://github.com/topics/TensorFlow
 
   - name: python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
